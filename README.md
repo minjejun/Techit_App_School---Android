@@ -17,6 +17,8 @@
 2. Android02_TestProject : Activity & xml로 앱 동작하는 방법 설명
 3. Android03_ViewBidnding : ViewBinding에 대한 설명
 4. Android04_LinearLayout : LinearLayout 개념 및 사용 방법 설명 
+5. Android05_FrameLayout : FrameLayout 개념 및 사용 방법 설명
+6. Android06_ConstraintLayout : ConstraintLayout 개념 및 사용 방법 설명
 
 
 
