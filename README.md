@@ -19,6 +19,8 @@
 4. Android04_LinearLayout : LinearLayout 개념 및 사용 방법 설명 
 5. Android05_FrameLayout : FrameLayout 개념 및 사용 방법 설명
 6. Android06_ConstraintLayout : ConstraintLayout 개념 및 사용 방법 설명
+7. Android07_TextView : TextView 사용 방법
+8. Android08_Button : Button 사용 방법
 
 
 
