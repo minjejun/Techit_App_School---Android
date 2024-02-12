@@ -21,6 +21,8 @@
 6. Android06_ConstraintLayout : ConstraintLayout 개념 및 사용 방법 설명
 7. Android07_TextView : TextView 사용 방법
 8. Android08_Button : Button 사용 방법
+9. Android09_EditText : EditText 사용 방법
+10. Android10_Logcat : Logcat 사용 방법(Log.d...)
 
 
 
