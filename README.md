@@ -30,6 +30,11 @@
 15. Android15_ImageView : ImageView 설명
 16. Android16_Radio : RadioButton 설명
 17. Android17_CheckBox : CheckBox 사용 방법
+18. Android18_Switch : Switch 사용 방법
+19. Android19_ProgressSlider : ProgressSlider 사용 방법
+20. Android20_RecyclerView, Android20_RecyclerView2 : RecyclerView 사용 방법
+21. Android21_MaterialCardView : MaterialCardView 사용 방법
+
 
 
 
